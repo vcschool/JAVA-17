@@ -10,7 +10,6 @@ Užduotys
 
 2. Sukurti Automobilių registrą, kuris leistų:
 * užregistruoti naują mašiną (valstybiniai numeriai, spalva, kuro tipas, metai, rida)
-* išregistruoti naują mšiną.
 * turi leisti sužinoti visą mašinų sąrašą
 * sąrašas turi būti saugomas faile ir duomenys turi išlikti išnaujo paleidus programą.
 
